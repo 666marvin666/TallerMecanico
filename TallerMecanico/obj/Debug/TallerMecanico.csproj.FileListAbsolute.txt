@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\bin\Debug\TallerMecanico.exe.config
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\bin\Debug\TallerMecanico.exe
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\bin\Debug\TallerMecanico.pdb
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.Form1.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.Nuevo_Empleado.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.Properties.Resources.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.exe
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.pdb
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.AltaServicio.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.CatalogoClientes.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.MenuPrincipal.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.CatalogoAutos.resources
+C:\Users\DELL\source\repos\TallerMecanico\TallerMecanico\obj\Debug\TallerMecanico.CatalogoPiezas.resources
